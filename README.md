@@ -2,6 +2,7 @@
 **Introduction:** This project generated random colour on two basis such as fixed set of colour and unfixed random hex colour.
 This project project is being created using HTML, CSS and javaScript.
 
+# Live demonstration of the project: 
 ### What I learnt new?
 - handle style of multiple HTML page using one CSS file.
 - handle the different functionality of page using different javaScript file.
